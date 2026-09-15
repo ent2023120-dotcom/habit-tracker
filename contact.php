@@ -93,13 +93,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="col-md-4 mb-3">
                 <div class="card p-3 shadow-sm">
                     <h5>📍 Address</h5>
-                    <p class="text-muted mb-0">123 Habit Street, Colombo</p>
+                    <p class="text-muted mb-0">Rattota Rd,Matale</p>
                 </div>
             </div>
             <div class="col-md-4 mb-3">
                 <div class="card p-3 shadow-sm">
                     <h5>📧 Email</h5>
-                    <p class="text-muted mb-0">support@habittracker.com</p>
+                    <p class="text-muted mb-0">sujani@habittracker.com</p>
                 </div>
             </div>
             <div class="col-md-4 mb-3">
